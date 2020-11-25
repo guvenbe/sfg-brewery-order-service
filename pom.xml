@@ -19,13 +19,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.sfg-beer-works</groupId>
+        <groupId>com.github.bg-beer-works</groupId>
         <artifactId>sfg-brewery-bom</artifactId>
-        <version>1.0.22</version>
+        <version>1.0.53</version>
     </parent>
 
     <artifactId>sfg-brewery-order-service</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.50-SNAPSHOT</version>
 
     <name>SFG Brewery Order Service</name>
 
@@ -74,9 +74,9 @@
     </build>
 
     <scm>
-        <connection>scm:git:git@github.com:sfg-beer-works/sfg-brewery-order-service.git</connection>
-        <developerConnection>scm:git:git@github.com:sfg-beer-works/sfg-brewery-order-service.git</developerConnection>
-        <url>https://github.com/sfg-beer-works/sfg-brewery-order-service</url>
+        <connection>scm:git:git@github.com:guvenbe/sfg-brewery-order-service.git</connection>
+        <developerConnection>scm:git:git@github.com:guvenbe/sfg-brewery-order-service.git</developerConnection>
+        <url>https://github.com/guvenbe/sfg-brewery-order-service</url>
         <tag>HEAD</tag>
     </scm>
 </project>
